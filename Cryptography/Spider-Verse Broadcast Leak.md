@@ -3,7 +3,7 @@ This was a question having RSA low exponent attack
 
 I didn't have a complete image of how this works so i just first went to the target website
 
-![[Pasted image 20260620000529.png]]
+![Challenge Page](Images/Pasted%20image%2020260620000529.png)
 
 we can see that 
 - RSA modulus `n`
@@ -14,7 +14,8 @@ So i started researching about RSA and RSA low exponent attack methodology
 
 RSA encryption normally works like this:
 
-![[Pasted image 20260620000749.png]]
+
+![RSA Encryption Formula](Images/Pasted%20image%2020260620000749.png)
 
 where:
 
@@ -29,7 +30,7 @@ e=3 which is a very small exponent
 
 If the message is small enough, then:
 
-![[Pasted image 20260620000808.png]]
+![Low Exponent Observation](Images/Pasted%20image%2020260620000808.png)
 
 Yeah i used AI for understanding this 
 
