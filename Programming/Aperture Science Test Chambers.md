@@ -9,7 +9,7 @@ http://67.205.179.14:9000/
 
 Lets visit it 
 
-![[Pasted image 20260619235505.png]]
+![Challenge Page](Images/Pasted%20image%2020260619235505.png)
 
 #### How it works
 
