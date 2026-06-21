@@ -8,19 +8,19 @@ This directly hints towards robots.txt ,sitemap.xml, etc
 
 Lets visit the website
 
-![[Pasted image 20260621130819.png]]
+![Challenge Homepage](Images/Pasted%20image%2020260621130819.png)
 
 Lets access robots.txt
 
-![[Pasted image 20260621130840.png]]
+![robots.txt](Images/Pasted%20image%2020260621130840.png)
 
 Notice the text
 
-![[Pasted image 20260621130901.png]]
+![Hidden Path](Images/Pasted%20image%2020260621130901.png)
 
 Lets visit /operator-cache-drop directly 
 
-![[Pasted image 20260621130924.png]]
+![Flag Page](Images/Pasted%20image%2020260621130924.png)
 
 Boom we got the flag 
 
