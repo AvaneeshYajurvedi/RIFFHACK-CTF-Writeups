@@ -10,7 +10,7 @@
 
 The challenge homepage contained a marketplace-themed website.
 
-![[Pasted image 20260620011954.png]]
+![Challenge Homepage](Images/Pasted%20image%2020260620011954.png)
 
 
 Directory enumeration revealed several interesting endpoints:
