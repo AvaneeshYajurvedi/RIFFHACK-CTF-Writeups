@@ -3,7 +3,7 @@ This was a tricky question too took me some time to figure out
 
 the challenge page is shows something like this 
 
-![[Pasted image 20260620005159.png]]
+<img src="Images/Pasted%20image%2020260620005159.png" width="700">
 
 
 lets retrieve the incident snapshot 
